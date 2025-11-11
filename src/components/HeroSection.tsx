@@ -84,16 +84,12 @@ export default function HeroSection() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            Bienvenue chez
-            <span className="block text-[rgb(240,45,58)] mt-2">SW DEV</span>
+            Transformez Votre Vision
+            <span className="block text-[rgb(240,45,58)] mt-2">En Réalité Numérique</span>
           </h1>
 
-          <p className="text-xl md:text-2xl text-gray-200 mb-4 leading-relaxed">
-            Votre partenaire en services informatiques à Madagascar
-          </p>
-
-          <p className="text-lg md:text-xl text-gray-300 mb-12 leading-relaxed">
-            Fondée par HERINIAINA Willy Jacquino
+          <p className="text-xl md:text-2xl text-gray-200 mb-12 leading-relaxed">
+            Créez des expériences web exceptionnelles avec nos solutions innovantes et performantes
           </p>
 
           <div className="flex flex-wrap gap-4 justify-center mb-12">
